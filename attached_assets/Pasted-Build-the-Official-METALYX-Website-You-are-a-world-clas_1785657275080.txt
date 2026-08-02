@@ -1,0 +1,741 @@
+Build the Official METALYX Website
+
+You are a world-class UI/UX designer, brand strategist, product designer, frontend architect, and conversion optimization expert.
+
+Your task is to design and build the complete official website for **METALYX**.
+
+This should not look like a local fabrication company's website.
+
+It should look like a premium technology platform such as Stripe, Linear, Apple, Notion, Vercel, or Airbnb.
+
+The final result should immediately communicate trust, innovation, professionalism, and premium quality.
+
+---
+
+# ABOUT METALYX
+
+METALYX is **not** a fabrication company.
+
+METALYX is a **managed fabrication marketplace**.
+
+Customers contact METALYX instead of searching for individual fabricators.
+
+METALYX understands the customer's requirements, finds the best verified fabrication partner, manages quotations, coordinates the project, oversees communication, and ensures successful project completion.
+
+Our fabrication partners focus on manufacturing.
+
+METALYX focuses on customer experience, project management, quality, and trust.
+
+Our vision is to become India's most trusted fabrication management platform.
+
+---
+
+# BRAND PERSONALITY
+
+Professional
+
+Premium
+
+Luxury
+
+Minimal
+
+Modern
+
+Trustworthy
+
+Technology-first
+
+Corporate
+
+Innovative
+
+Confident
+
+Never loud.
+
+Never flashy.
+
+Never cheap.
+
+Every section should feel expensive.
+
+---
+
+# DESIGN STYLE
+
+Use a premium dark theme.
+
+Primary Color:
+Deep Black (#0B0B0B)
+
+Secondary:
+Graphite (#1A1A1A)
+
+Accent:
+Metallic Silver (#C0C0C0)
+
+Highlight:
+Electric Blue (#3B82F6)
+
+Text:
+Pure White (#FFFFFF)
+
+Secondary Text:
+#B5B5B5
+
+Use lots of spacing.
+
+Large typography.
+
+Rounded corners.
+
+Soft shadows.
+
+Subtle glassmorphism.
+
+Professional gradients.
+
+Very smooth animations.
+
+No clutter.
+
+No unnecessary colors.
+
+No childish illustrations.
+
+---
+
+# TYPOGRAPHY
+
+Bold modern headings.
+
+Readable body text.
+
+Large spacing.
+
+Excellent hierarchy.
+
+Headings should feel powerful.
+
+---
+
+# WEBSITE STRUCTURE
+
+Create the following pages.
+
+Home
+
+About
+
+Services
+
+Industries
+
+Projects
+
+Partner Program
+
+FAQs
+
+Contact
+
+Privacy Policy
+
+Terms
+
+Refund Policy
+
+Cancellation Policy
+
+Cookies Policy
+
+404 Page
+
+---
+
+# HOME PAGE
+
+The first screen must instantly answer:
+
+Who are we?
+
+What do we do?
+
+Why should customers trust us?
+
+Headline:
+
+"India's Smart Fabrication Management Platform"
+
+Subheading:
+
+"We connect you with verified fabrication experts and manage your project from quotation to completion."
+
+Primary CTA:
+
+Get Free Quote
+
+Secondary CTA:
+
+Become a Partner
+
+Background should contain subtle industrial architecture, steel structures, blueprint-inspired patterns, and premium animated lighting effects.
+
+---
+
+# NAVIGATION
+
+Sticky navigation
+
+Transparent initially
+
+Glass effect while scrolling
+
+Logo
+
+Home
+
+Services
+
+Industries
+
+Projects
+
+Partners
+
+About
+
+Contact
+
+Highlighted button:
+
+Get Quote
+
+---
+
+# SERVICES
+
+Beautiful cards.
+
+Steel Fabrication
+
+Metal Fabrication
+
+Aluminium Fabrication
+
+Industrial Structures
+
+Warehouse Fabrication
+
+Factory Projects
+
+Office Interior Fabrication
+
+Railings
+
+Staircases
+
+Custom Fabrication
+
+Machine Structures
+
+MS Fabrication
+
+SS Fabrication
+
+Laser Cutting
+
+Welding
+
+ACP Work
+
+Each service should have its own page.
+
+---
+
+# INDUSTRIES
+
+Construction
+
+Industrial
+
+Factories
+
+Warehouses
+
+Commercial Buildings
+
+Corporate Offices
+
+Retail
+
+Hotels
+
+Hospitals
+
+Educational Institutes
+
+Residential
+
+Government
+
+Infrastructure
+
+---
+
+# HOW IT WORKS
+
+Animated timeline.
+
+Customer submits requirement
+
+↓
+
+Requirement analysis
+
+↓
+
+Best fabrication partner selected
+
+↓
+
+Quotation
+
+↓
+
+Project starts
+
+↓
+
+Quality supervision
+
+↓
+
+Final delivery
+
+↓
+
+Customer satisfaction
+
+---
+
+# WHY METALYX
+
+Beautiful feature cards.
+
+Verified Partners
+
+Professional Project Management
+
+Transparent Pricing
+
+Fast Quotations
+
+Dedicated Support
+
+Quality Assurance
+
+Project Coordination
+
+Reliable Delivery
+
+Trusted Network
+
+Technology Driven
+
+---
+
+# TRUST SECTION
+
+Animated counters.
+
+Verified Fabricators
+
+Completed Projects
+
+Customer Satisfaction
+
+Cities Served
+
+Industrial Clients
+
+Years of Combined Experience
+
+---
+
+# PORTFOLIO
+
+Large premium gallery.
+
+Industrial projects
+
+Steel structures
+
+Commercial fabrication
+
+Warehouses
+
+Modern railings
+
+Corporate interiors
+
+Factory installations
+
+Beautiful hover effects.
+
+Filtering options.
+
+---
+
+# TESTIMONIALS
+
+Premium testimonial cards.
+
+Customer photos.
+
+Ratings.
+
+Location.
+
+Company.
+
+Smooth carousel.
+
+---
+
+# PARTNER PAGE
+
+Explain:
+
+Membership
+
+Lead Management
+
+Project Opportunities
+
+Monthly Subscription
+
+Commission Model
+
+Benefits
+
+Growth
+
+Technology Support
+
+Dedicated CTA:
+
+Become a Verified METALYX Partner
+
+---
+
+# ABOUT PAGE
+
+Mission
+
+Vision
+
+Core Values
+
+Innovation
+
+Transparency
+
+Customer First
+
+Technology
+
+Growth
+
+Quality
+
+Professional imagery.
+
+---
+
+# FAQ
+
+Accordion.
+
+At least 20 professional FAQs.
+
+---
+
+# CONTACT PAGE
+
+Large contact section.
+
+Phone
+
+WhatsApp
+
+Email
+
+Office Address
+
+Google Maps
+
+Working Hours
+
+Professional contact form
+
+---
+
+# FOOTER
+
+Quick Links
+
+Services
+
+Industries
+
+Legal
+
+Social Media
+
+Newsletter
+
+Contact
+
+Copyright
+
+---
+
+# MICRO ANIMATIONS
+
+Everything should feel alive.
+
+Fade animations.
+
+Hover animations.
+
+Smooth page transitions.
+
+Button ripple.
+
+Cards lift on hover.
+
+Scrolling animations.
+
+Parallax backgrounds.
+
+Animated counters.
+
+Animated timelines.
+
+Never overdo animations.
+
+---
+
+# USER EXPERIENCE
+
+Lightning fast.
+
+Premium.
+
+Responsive.
+
+Perfect mobile experience.
+
+Excellent accessibility.
+
+Keyboard navigation.
+
+SEO optimized.
+
+Schema markup.
+
+Lazy loading.
+
+Optimized images.
+
+Fast performance.
+
+Lighthouse score above 95.
+
+---
+
+# CONVERSION FEATURES
+
+Sticky Get Quote button
+
+Floating WhatsApp
+
+Call button on mobile
+
+Exit intent popup
+
+Newsletter
+
+Lead capture
+
+Quick enquiry form
+
+Instant callback request
+
+---
+
+# SEO
+
+Optimize every page.
+
+Use semantic HTML.
+
+Open Graph.
+
+Twitter Cards.
+
+Structured Data.
+
+Proper heading hierarchy.
+
+Meta descriptions.
+
+Image alt text.
+
+Canonical URLs.
+
+XML sitemap.
+
+robots.txt
+
+---
+
+# PERFORMANCE
+
+Next.js
+
+React
+
+TypeScript
+
+Tailwind CSS
+
+Framer Motion
+
+Lucide Icons
+
+Responsive Grid
+
+Reusable Components
+
+Modern architecture
+
+Server-side rendering
+
+Image optimization
+
+Excellent code quality
+
+---
+
+# COMPONENTS
+
+Navbar
+
+Hero
+
+Stats
+
+Services Grid
+
+Industries Grid
+
+Timeline
+
+Portfolio
+
+Testimonials
+
+Partners
+
+FAQ
+
+CTA Banner
+
+Contact Form
+
+Footer
+
+Every component must be reusable.
+
+---
+
+# MOBILE EXPERIENCE
+
+Perfect responsiveness.
+
+Touch friendly.
+
+Bottom CTA.
+
+Fast loading.
+
+Readable typography.
+
+Large tap targets.
+
+---
+
+# VISUAL QUALITY
+
+Every section should feel like it belongs on a billion-dollar startup website.
+
+Avoid generic stock layouts.
+
+Create custom layouts.
+
+Use asymmetry where appropriate.
+
+Premium spacing.
+
+Professional iconography.
+
+Luxury visual hierarchy.
+
+---
+
+# COPYWRITING
+
+Professional.
+
+Confident.
+
+Minimal.
+
+Clear.
+
+Conversion-focused.
+
+No exaggerated marketing buzzwords.
+
+---
+
+# FINAL GOAL
+
+When a visitor opens the website, they should immediately think:
+
+"This company is extremely professional. I trust them with my fabrication project."
+
+When a fabrication business visits, they should think:
+
+"I want to become a METALYX partner."
+
+When an investor visits, they should think:
+
+"This company has the potential to become the Uber of the fabrication industry."
+
+Deliver a production-ready, pixel-perfect, modern website with clean architecture, reusable components, beautiful animations, excellent performance, and premium design quality. The website should feel like a global technology company while maintaining credibility in the industrial fabrication sector.
+
+For project images you can access this two links
+
+ 
+https://share.google/5KVbh5rtIak25JNBf
+
+
+https://jsdl.in/DT-113HUEKXKI5
+
+
+And for contact and WhatsApp use 9898323876
+And for gmail use metalyx.team@gmail.com
